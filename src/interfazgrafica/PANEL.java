@@ -368,6 +368,7 @@ public class PANEL extends javax.swing.JFrame {
         OTRAVENTANA ot=new OTRAVENTANA();
         this.setVisible(false);
         ot.setVisible(true);
+        System.out.println("HOLA A TODOS");
         
                 
     }//GEN-LAST:event_CAMBIOActionPerformed
